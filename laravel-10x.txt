@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-main
-=======
-laravel-10x
->>>>>>> 1-laravel-10x
-lon loi 123
+o serve
